@@ -1,4 +1,4 @@
-<h1 align="center">Vitrine</h1>
+[![Build IPA from your own Spotify IPA](https://github.com/khanghoangkhang687-spec/vitrine/actions/workflows/build-ipa.yml/badge.svg)](https://github.com/khanghoangkhang687-spec/vitrine/actions/workflows/build-ipa.yml)<h1 align="center">Vitrine</h1>
 
 <p align="center">Spotify, in glass.</p>
 
